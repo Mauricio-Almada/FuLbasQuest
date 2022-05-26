@@ -1,0 +1,2 @@
+﻿  Pelota.cpp
+C:\Users\jems8\Documents\2022ProyectoNuevo\proyectoDeLab\JuegoEnGrupo\Pelota.cpp(68,89): error C3867: 'sf::Transformable::move': sintaxis no estándar; utilice '&' para crear un puntero al miembro
